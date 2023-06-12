@@ -1,0 +1,13 @@
+com\inetBanking\TestCases\BaseClass.class
+com\inetBanking\pageObjects\EditCustmorPage.class
+com\inetBanking\TestCases\TC_AddAccountTest_005.class
+com\inetBanking\TestCases\TC_AddCustmorTest_003.class
+com\inetBanking\TestCases\TC_EditCustmorTest_004.class
+com\inetBanking\TestCases\TC_loginTest_001.class
+com\inetBanking\pageObjects\AddAccountPage.class
+com\inetBanking\utilities\ReadConfig.class
+com\inetBanking\pageObjects\AddCustmorPage.class
+com\inetBanking\utilities\Reporting.class
+com\inetBanking\utilities\XLUtils.class
+com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\TestCases\TC_LoginDDT_002.class
